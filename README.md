@@ -1,1 +1,2 @@
 Este código do famoso jogo da forca foi retirado do livro "Introdução a programação com python" do autor Nilo Ney Coutinho de Menezes. Este código foi usado como uma aplicação dos conceitos básicos de programação em Python.
+Este código foi uma oportunidade de aplicar diversos conceitos de lógica de programação e comandos do Python.
